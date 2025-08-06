@@ -1,2 +1,2 @@
 hii this is a sample file
-This is a commit form newBranch
+This is a commit form newBranch form subBranch
